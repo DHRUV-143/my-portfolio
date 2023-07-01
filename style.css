@@ -98,7 +98,7 @@ ul li{
 .social-icon i{
     font-size: 20px;
 }
-.social-icon span:hover{
+.social-icon  span:hover{
     color: #3c79db;
     background: #fff;
     transform: translateY(-4px);
